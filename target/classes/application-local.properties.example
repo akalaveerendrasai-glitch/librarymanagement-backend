@@ -1,0 +1,6 @@
+# Copy this file to 'application-local.properties' (in the same directory)
+# and set your actual local MySQL root password.
+# 'application-local.properties' is ignored by Git, so your credentials remain private.
+
+spring.datasource.username=root
+spring.datasource.password=your_mysql_password_here

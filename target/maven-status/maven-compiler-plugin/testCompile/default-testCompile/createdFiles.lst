@@ -1,0 +1,4 @@
+com\library\lms\service\BorrowingServiceTest.class
+com\library\lms\controller\BookControllerSecurityTest.class
+com\library\lms\service\AuthServiceTest.class
+com\library\lms\service\BookServiceTest.class
